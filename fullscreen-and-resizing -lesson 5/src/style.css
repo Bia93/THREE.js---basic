@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.webgl {
+  position: fixed; /*pt a nu se mai vedea scorllul*/
+  top: 0;
+  left: 0;
+  outline: none; /*pt a scapa de chenarul albastru care e posibil sa se vada*/
+}
